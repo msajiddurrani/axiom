@@ -1,0 +1,6 @@
+{
+  "name": "AXIOM",
+  "description": "A modern, highly polished Customer Relationship Management platform featuring a beautiful WebGL-glowing globe and glassmorphism login system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
