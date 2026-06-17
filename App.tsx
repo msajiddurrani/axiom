@@ -4,8 +4,8 @@
  */
 
 import React, { useState } from 'react';
-import LoginScreen from './components/LoginScreen';
-import Dashboard from './components/Dashboard';
+import LoginScreen from './LoginScreen';
+import Dashboard from './Dashboard';
 
 export default function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
